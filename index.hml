@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Termos de Serviço e Política de Privacidade</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+    h1 { color: #333; }
+    h2 { margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <h1>Termos de Serviço</h1>
+  <p>Bem-vindo ao <strong>[Zephyr]</strong>! Ao usar nosso bot, você concorda com os termos abaixo:</p>
+  <ol>
+    <li><strong>Uso do Bot</strong><br>O bot é fornecido “no estado em que se encontra”, sem garantias de funcionamento contínuo ou livre de erros.</li>
+    <li><strong>Dados Coletados</strong><br>Coletamos apenas as informações necessárias para o funcionamento do bot, como seu ID e nome de usuário.</li>
+    <li><strong>Privacidade</strong><br>Respeitamos sua privacidade e não compartilhamos seus dados com terceiros sem sua permissão.</li>
+    <li><strong>Responsabilidade</strong><br>Você é responsável pelo uso que fizer do bot. Não nos responsabilizamos por danos diretos ou indiretos causados pelo uso do bot.</li>
+    <li><strong>Alterações</strong><br>Podemos alterar estes termos a qualquer momento. Recomendamos que os revise periodicamente.</li>
+  </ol>
+
+  <h2>Política de Privacidade</h2>
+  <p>Esta política explica como coletamos, usamos e protegemos seus dados ao usar o <strong>[Zephyr]</strong>.</p>
+  <ol>
+    <li><strong>Dados Coletados</strong><br>Coletamos informações básicas, como seu ID do Discord e nome de usuário, apenas para funcionamento do bot.</li>
+    <li><strong>Uso dos Dados</strong><br>Os dados coletados são usados exclusivamente para personalizar e melhorar a experiência do usuário.</li>
+    <li><strong>Compartilhamento de Dados</strong><br>Não compartilhamos seus dados com terceiros, exceto quando exigido por lei.</li>
+    <li><strong>Segurança</strong><br>Tomamos medidas para proteger seus dados contra acesso não autorizado.</li>
+    <li><strong>Contato</strong><br>Se tiver dúvidas sobre sua privacidade, entre em contato pelo e-mail: brenocarvalhori08@gmail.com</li>
+  </ol>
+</body>
+</html>
